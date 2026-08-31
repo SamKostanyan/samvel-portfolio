@@ -8,7 +8,7 @@ export const profile = {
   email: 'samvel.kostanyan.1994@gmail.com',
   phone: '+374 93 745274',
   summary:
-    'Full Stack Developer experienced in building scalable web and mobile applications using modern technologies. Skilled in backend development, API design and integration, and responsive frontend and mobile app development. Focused on performance, clean code, and delivering reliable, user-friendly digital products.',
+    'Full Stack Developer experienced in building scalable web and mobile applications using modern technologies. Skilled in backend development, API design and integration, AI-assisted development workflows, and responsive frontend and mobile app development. Focused on performance, clean code, and delivering reliable, user-friendly digital products.',
   resumeUrl: 'resume.pdf',
   social: {
     github: 'https://github.com/SamKostanyan',
